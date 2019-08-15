@@ -1,0 +1,43 @@
+
+.background{
+	width: 1280px;
+	height: 1024px;
+	position: absolute;
+	}
+
+/*travel note position*/
+.title {
+	position: relative;
+	top:2%;
+	left:48%;
+    font-size: 25px;
+   font-family: 'Permanent Marker', cursive;
+}
+
+.maps{
+	position: relative;
+	left: 10%;
+}
+
+/*not working, don't know why*/
+.map{
+	position: relative;
+	top: 10%;
+}
+
+/*the country button position not working*/
+.items1{
+	position: relative;
+	top: -50%;
+	left: 5%;
+}
+
+/*the click text position*/
+/*Want to add javascript to make the mousetouch the text and the text can do animation*/
+.text{
+	position: relative;
+	top: -5%;
+	left: 50%;
+	font-size: 35px;
+	font-family: 'Caveat', cursive;
+}
