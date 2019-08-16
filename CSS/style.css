@@ -26,28 +26,28 @@
 }
 
 /*the country button position not working*/
-.items1{
+#items1{
 	position: absolute;
 	top: 17.9%;
 	left: 4%;
 
 }
 
-.items2{
+#items2{
 	position: absolute;
 	top: 31.8%;
-	left: 45.9%;
+	left: 45.8%;
 
 }
 
-.items3{
+#items3{
 	position: absolute;
 	top: 28%;
 	left: 63%;
 
 }
 
-.items4{
+#items4{
 	position: absolute;
 	top: 33%;
 	left: 77.9%;
