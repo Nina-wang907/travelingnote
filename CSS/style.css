@@ -54,6 +54,20 @@
 
 }
 
+#items5{
+	position: absolute;
+	top: 55.9%;
+	left: 66%;
+
+}
+
+#items6{
+	position: absolute;
+	top: 29.5%;
+	left: 43%;
+
+}
+
 /*the click text position*/
 /*Want to add javascript to make the mousetouch the text and the text can do animation*/
 .text{
